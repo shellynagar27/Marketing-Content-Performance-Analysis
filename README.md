@@ -56,7 +56,7 @@ The dataset includes records of content performance published across four platfo
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](![image](https://github.com/user-attachments/assets/608c034b-15e7-483e-a489-dd6b1a31e943))
+![Dashboard Screenshot](https://github.com/user-attachments/assets/659b4820-66ac-49dd-a79a-22afbf4de710)
 
 ---
 
