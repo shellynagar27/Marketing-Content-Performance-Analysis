@@ -59,7 +59,7 @@ The dataset includes records of content performance published across four platfo
 
 ## 📷 Dashboard Preview
 
-![Dashboard]()
+[Dashboard](https://github.com/shellynagar27/Marketing-Content-Performance-Analysis/blob/main/Content%20Performance%20Analysis%20Across%20Social%20Media%20Platforms.pdf)
 
 ---
 ## 💬 Connect With Me
