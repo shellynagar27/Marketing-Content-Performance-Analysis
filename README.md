@@ -2,6 +2,9 @@
 
 A Power BI project that analyzes social media content performance across TikTok, Instagram, LinkedIn, and X.com for a global IT company. The objective is to uncover what drives engagement, impressions, and reach across different platforms, content types, and regions using 2024 post-level data.
 
+- [LinkedIn Post]()
+- [Live Dashboard]()
+
 ---
 
 ## 🚀 Project Overview
@@ -59,4 +62,11 @@ The dataset includes records of content performance published across four platfo
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/659b4820-66ac-49dd-a79a-22afbf4de710)
 
 ---
+## 💬 Connect With Me
 
+I'm always open to feedback, collaborations, and new opportunities in the **Data & Analytics** domain.
+
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shellynagar/)
+- 📧 [shelly.nagar@outlook.com](shelly.nagar@outlook.com)
+- 🌐 [Portfolio Website](https://codebasics.io/portfolio/Shelly-Nagar)
+- [novypro profile](https://my.novypro.com/shelly-nagar)
