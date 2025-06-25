@@ -3,7 +3,7 @@
 A Power BI project that analyzes social media content performance across TikTok, Instagram, LinkedIn, and X.com for a global IT company. The objective is to uncover what drives engagement, impressions, and reach across different platforms, content types, and regions using 2024 post-level data.
 
 - [LinkedIn Post](https://www.linkedin.com/posts/shellynagar_datadna-builtwithzoomcharts-powerbi-activity-7343377778576097280-5xAh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACm_MdkBAINlDpBdpb0l7ExWMWsm7jLltdM)
-- [Live Dashboard]()
+- [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDI5Mzg4OGMtNjZlOC00YTkwLWEzNTUtNTc3MGIxZTcwNzYwIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 - [Challenge details](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/onyx-data-june-2025)
 ---
 
